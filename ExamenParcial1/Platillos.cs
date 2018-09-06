@@ -15,7 +15,7 @@ namespace ExamenParcial1
         {
             get
             {
-                _Precio;
+               return _Precio;
 
             }
             set
